@@ -69,7 +69,3 @@ go get github.com/charmbracelet/bubbletea
 go get github.com/charmbracelet/bubbles
 go get github.com/charmbracelet/lipgloss
 ```
-
-## License
-
-MIT
